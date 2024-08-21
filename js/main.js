@@ -47,8 +47,6 @@
 
 //sumar(productouno, productodos)
 
-// FOR  ¿¿¿¿¿¿¿¿¿ como aplicarlo a la pagina ...?????????
-// ejemplo:clase2...
 //let numero = parseInt(prompt("Bienvenido! Que tabla de multiplicar desea?"))
 
 //for(let i =1; i<=15; i++){
